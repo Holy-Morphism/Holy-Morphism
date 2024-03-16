@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Adeel Tahir</h1>
-<h3 align="center">A passionate ML Engineer from Pakistan</h3>
+<h3 align="center">A Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holy-morphism&label=Profile%20views&color=0e75b6&style=flat" alt="holy-morphism" /> </p>
 
